@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: EasyCron
 x-complete: 1
@@ -210,4 +209,3 @@ paths:
       - Of
       - Cron
       - Job
----
